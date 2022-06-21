@@ -6,7 +6,7 @@ JavaScript for decoder application that uses different ciphers to encode and dec
 ### Caesars Cipher
 
 #### Encode
-![CaesarEncode](DecoderRing/toDecoderRingCaesarEncode.PNG)
+![CaesarEncode](DecoderRing/DecoderRingCaesarEncode.PNG)
 
 ### Decode
 ![CaesarDecode](DecoderRing/DecoderRingCaesarDecode.PNG)
